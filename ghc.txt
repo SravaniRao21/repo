@@ -1,1 +1,4 @@
 I'm creating the repository to git clone my assignment.
+We have cloned our repository in the visual studio code.
+Now we are testing push
+assignment: push incremental changes to github repository through vs code 
